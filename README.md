@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 AI Researcher & Developer | BSCS - Artificial Intelligence | Graphic Designer
 
-I'm passionate about creating innovative solutions through web development and graphic design. I'm always eager to collaborate, learn new skills, and take on challenging projects.
+I'm passionate about creating innovative solutions through Artificial Intelligence. I'm always eager to collaborate, learn new skills, and take on challenging projects.
 
 - 🌱 Currently delving into generative AI
 - 👀 Open to collaboration and learning opportunities
