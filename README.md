@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 AI Researcher & Developer | BSCS - Artificial Intelligence | Graphic Designer
 
-I'm passionate about creating innovative solutions through Artificial Intelligence. I'm always eager to collaborate, learn new skills, and take on challenging projects.
+Passionate about developing innovative solutions using Artificial Intelligence, always eager to collaborate, learn new skills, and take on challenging projects.
 
-- 🌱 Currently delving into generative AI
+- 🌱 Currently exploring generative AI
 - 👀 Open to collaboration and learning opportunities
 - 📫 Reach me at: [manaloangelo1017@gmail.com](mailto:manaloangelo1017@gmail.com)
 - 💻 Check out my latest AI project: [MARS - Multifunctional AI Responsive System](https://github.com/GeloCreativeStudio/MARS-project)
