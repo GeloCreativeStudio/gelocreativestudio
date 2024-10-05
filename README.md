@@ -1,6 +1,6 @@
-### Hello! My name is Angelo
+### Hello, I'm Angelo!
 
-I have a passion for Graphic Design, Coding, Cybersecurity, Artificial Intelligence, and developing applications that address real-world challenges. You can explore my [project](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
+I am passionate about Graphic Design, Coding, Cybersecurity, Artificial Intelligence, and developing applications that address real-world challenges. You can explore my [project](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
 
 ## Skills
 
@@ -17,7 +17,7 @@ I have a passion for Graphic Design, Coding, Cybersecurity, Artificial Intellige
    - [View Code](https://github.com/GeloCreativeStudio/MARS-project) | [Live Demo](https://mars-ai.netlify.app/)
 
 2. **QR-Based Jail Visitor Management System**
-   - Streamlined visitor check-in for Bureau of Jail Management and Penology
+   - Streamlined visitor check-in for the Bureau of Jail Management and Penology
    - [View Code](https://github.com/GeloCreativeStudio/jvms) | [Live Demo](https://app-bjmp.netlify.app/)
 
 3. **Inventory Management System**
