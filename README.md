@@ -1,14 +1,6 @@
-# Angelo Manalo
+### Hello! My name is Angelo
 
-[![Email](https://img.shields.io/badge/Email-202410769%40fit.edu.ph-blue)](mailto:202410769@fit.edu.ph)
-[![Phone](https://img.shields.io/badge/Phone-0992%20552%208110-green)](tel:+63-992-552-8110)
-[![Website](https://img.shields.io/badge/Website-angelomanalo.me-orange)](https://www.angelomanalo.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelo--manalo-0077B5)](https://www.linkedin.com/in/angelo-manalo/)
-[![GitHub](https://img.shields.io/badge/GitHub-GeloCreativeStudio-181717)](https://github.com/GeloCreativeStudio)
-
-## Summary
-
-Hello! My name is Angelo and I have a passion for Graphic Design, Coding, Cybersecurity, Artificial Intelligence, and developing applications that address real-world challenges. You can explore my [project](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
+I have a passion for Graphic Design, Coding, Cybersecurity, Artificial Intelligence, and developing applications that address real-world challenges. You can explore my [project](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
 
 ## Skills
 
