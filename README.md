@@ -10,11 +10,6 @@
 
 Dedicated Computer Science student specializing in Artificial Intelligence at Far Eastern University Institute of Technology. Experienced in graphic design, coding, cybersecurity, and AI. Freelance developer and designer at Gelo Creative Studio, leveraging advanced AI tools for creative solutions and impactful app and website development.
 
-## Education
-
-- **BS in Computer Science, AI Specialization** | Far Eastern University Institute of Technology (Aug 2024 - Present)
-- **BS in Computer Science** | EMA EMITS College Philippines (Sep 2021 - May 2024)
-
 ## Skills
 
 - **Design:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro)
