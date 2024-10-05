@@ -14,9 +14,9 @@ Dedicated Computer Science student specializing in Artificial Intelligence at Fa
 
 - **Design:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro)
 - **AI Tools:** Vercel V0, OpenAI API, Claude Anthropic API, Google Gemini, Adobe Firefly, Krea, Ideogram, OpenArt
-- **Development:** Python, JavaScript, PHP, React.js, Node.js, Express.js, Next.js, React Native, Flask, SQL, HTML5, CSS3
+- **Development:** Python, JavaScript, PHP, React.js, Node.js, Express.js, Next.js, React Native, Flask, SQL, HTML5, CSS3, Tailwind CSS
 - **DevOps:** Git, GitHub, Netlify, Vercel, Supabase, PostgreSQL, Prisma
-- **Other:** LaTeX, Tailwind CSS, Unix, Linux, Windows
+- **Other:** LaTeX, Unix, Linux, Windows
 
 ## Projects
 
