@@ -2,7 +2,7 @@
 
 I am passionate about Graphic Design, Coding, Cybersecurity, Artificial Intelligence, and developing applications that address real-world challenges. You can explore my [project](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
 
-## Skills
+## Technologies
 
 - **Design:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro)
 - **AI Tools:** Vercel V0, OpenAI API, Claude Anthropic API, Google Gemini, Adobe Firefly, Krea, Ideogram, OpenArt
@@ -23,9 +23,3 @@ I am passionate about Graphic Design, Coding, Cybersecurity, Artificial Intellig
 3. **Inventory Management System**
    - Web-based solution for clothing store inventory and sales tracking
    - [View Code](https://github.com/GeloCreativeStudio/inventory-management) | [Live Demo](https://inventory-management-software.netlify.app/)
-
-## Technologies
-
-- **Languages:** Python, JavaScript, PHP, SQL, HTML5, CSS3, C++, TypeScript, VB.NET
-- **Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, Flask, Material-UI, Tailwind CSS
-- **Operating Systems:** Unix, Linux, Windows
