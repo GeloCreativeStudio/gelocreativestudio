@@ -7,7 +7,7 @@ I am passionate about Graphic Design, Coding, Cybersecurity, Artificial Intellig
 - **Design:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro)
 - **AI Tools:** Vercel V0, OpenAI API, Claude Anthropic API, Google Gemini, Adobe Firefly, Krea, Ideogram, OpenArt
 - **Development:** Python, JavaScript, PHP, React.js, Node.js, Express.js, Next.js, React Native, Flask, SQL, HTML5, CSS3, Tailwind CSS
-- **DevOps:** Git, GitHub, Netlify, Vercel, Supabase, PostgreSQL, Prisma
+- **DevOps:** Git, GitHub, Netlify, Vercel, Supabase, PostgreSQL, Prisma, DigitalOcean, Patched
 - **Other:** LaTeX, Unix, Linux, Windows
 
 ## Projects
