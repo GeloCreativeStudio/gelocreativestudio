@@ -8,7 +8,7 @@
 
 ## Summary
 
-Dedicated Computer Science student specializing in Artificial Intelligence at Far Eastern University Institute of Technology. Experienced in graphic design, coding, cybersecurity, and AI. Freelance developer and designer at Gelo Creative Studio, leveraging advanced AI tools for creative solutions and impactful app and website development.
+Hello! My name is Angelo and I have a passion for Graphic Design, Coding, Cybersecurity, Artificial Intelligence, and developing applications that address real-world challenges. You can explore my [project](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
 
 ## Skills
 
