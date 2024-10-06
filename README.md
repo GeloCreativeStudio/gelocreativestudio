@@ -1,6 +1,6 @@
-### Hello, I'm Angelo!
+# Hello, I'm Angelo
 
-I am passionate about **Graphic Design**, **Coding**, **Cybersecurity**, **Artificial Intelligence**, and developing applications that solve real-world challenges. Explore my [projects](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
+I am passionate about **Graphic Design**, **Coding**, **Cybersecurity**, **Artificial Intelligence**, and building applications that address real-world challenges. Explore my [projects](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience), and feel free to review my [resume](https://www.angelomanalo.me/MANALO_RESUME_2024.pdf).
 
 ---
 
