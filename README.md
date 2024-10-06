@@ -1,6 +1,8 @@
 ### Hello, I'm Angelo!
 
-I am passionate about Graphic Design, Coding, Cybersecurity, Artificial Intelligence, and developing applications that address real-world challenges. You can explore my [project](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
+I am passionate about **Graphic Design**, **Coding**, **Cybersecurity**, **Artificial Intelligence**, and developing applications that solve real-world challenges. Explore my [projects](https://www.angelomanalo.me/#projects) and [experience](https://www.angelomanalo.me/#experience).
+
+---
 
 ## Technologies
 
@@ -12,14 +14,17 @@ I am passionate about Graphic Design, Coding, Cybersecurity, Artificial Intellig
 
 ## Projects
 
-1. **Multifunctional AI Responsive System (MARS)**
-   - Integrated AI technologies for voice assistant experience
-   - [View Code](https://github.com/GeloCreativeStudio/MARS-project) | [Live Demo](https://mars-ai.netlify.app/)
+1. **Multifunctional AI Responsive System (MARS)**  
+   Integrated AI technologies for a voice assistant experience  
+   [![View Code](https://img.shields.io/badge/Code-100000?style=flat&logo=github&logoColor=white)](https://github.com/GeloCreativeStudio/MARS-project) 
+   [![Live Demo](https://img.shields.io/badge/Live_Demo-0077B5?style=flat&logo=netlify&logoColor=white)](https://mars-ai.netlify.app/)
 
-2. **QR-Based Jail Visitor Management System**
-   - Streamlined visitor check-in for the Bureau of Jail Management and Penology
-   - [View Code](https://github.com/GeloCreativeStudio/jvms) | [Live Demo](https://app-bjmp.netlify.app/)
+2. **QR-Based Jail Visitor Management System**  
+   Streamlined visitor check-in for the Bureau of Jail Management and Penology  
+   [![View Code](https://img.shields.io/badge/Code-100000?style=flat&logo=github&logoColor=white)](https://github.com/GeloCreativeStudio/jvms) 
+   [![Live Demo](https://img.shields.io/badge/Live_Demo-0077B5?style=flat&logo=netlify&logoColor=white)](https://app-bjmp.netlify.app/)
 
-3. **Inventory Management System**
-   - Web-based solution for clothing store inventory and sales tracking
-   - [View Code](https://github.com/GeloCreativeStudio/inventory-management) | [Live Demo](https://inventory-management-software.netlify.app/)
+3. **Inventory Management System**  
+   Web-based solution for clothing store inventory and sales tracking  
+   [![View Code](https://img.shields.io/badge/Code-100000?style=flat&logo=github&logoColor=white)](https://github.com/GeloCreativeStudio/inventory-management) 
+   [![Live Demo](https://img.shields.io/badge/Live_Demo-0077B5?style=flat&logo=netlify&logoColor=white)](https://inventory-management-software.netlify.app/)
